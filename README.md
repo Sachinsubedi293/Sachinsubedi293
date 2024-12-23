@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on fullstack web development and mobile app projects.<br>👯 I’m looking to collaborate on innovative app development and web application projects.<br>🤝 I’m looking for help with UX/UI design and backend optimization.<br>🌱 I’m currently learning advanced React Native features and cloud computing services.<br>💬 Ask me about fullstack development, mobile app creation, and software engineering best practices.<br>⚡ Fun fact: I once built a mobile app in just 12 hours for a hackaday!
-
+🔭 I’m currently working on fullstack web development and mobile app projects.<br>👯 I’m looking to collaborate on innovative app development and web application projects.<br>🤝 I’m looking for help with UX/UI design and backend optimization.<br>🌱 I’m currently learning advanced React Native features and cloud computing services.<br>💬 Ask me about fullstack development, mobile app creation, and software engineering best practices.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sachin-subedi-990abb21b/) 
